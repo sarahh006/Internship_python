@@ -3,4 +3,4 @@
 
 ### Prediction Result
 
-![Result](screenshots/result_page.png)
+![Result](screenshots/app.py.png)
