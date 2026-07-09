@@ -1,6 +1,8 @@
 # Internship_python
+# Anomaly Detection using Machine Learning
+
 ## Output
 
-### Prediction Result
+### Result Page
 
-![Result](screenshots/app.py.png)
+![Result Page](result_page.png)
